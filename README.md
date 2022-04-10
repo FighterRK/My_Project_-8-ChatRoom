@@ -3,7 +3,9 @@ php chatroom
 its my php web application build using bootsrap template
 you can join using a room name
 and send link to your friends and start chatting
+INTERFACE
 ![interface](https://user-images.githubusercontent.com/73493598/162605103-669e80de-64e9-4dc0-80d4-5300177ff643.png)
+CREATING A ROOM
 ![creating aroom](https://user-images.githubusercontent.com/73493598/162605112-1e4cac15-d260-45ff-9569-57de55205a3a.png)
 ![creating a room 2](https://user-images.githubusercontent.com/73493598/162605115-780da983-b75c-43ee-8b30-683e930db2e8.png)
 ![room created](https://user-images.githubusercontent.com/73493598/162605123-9e50d365-801f-43d7-ac83-ef6e7312f773.png)
